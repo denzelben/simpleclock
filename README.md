@@ -1,6 +1,6 @@
 # 3D Clock
 
-A beautiful 3D animated clock with shifting gradient background and floating stars.
+A beautiful 3D animated clock.
 
 ## Quick Start
 
