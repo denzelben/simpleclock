@@ -1,6 +1,6 @@
-# 3D Clock
+# Clock
 
-A beautiful 3D animated clock.
+A beautiful animated clock.
 
 ## Quick Start
 
