@@ -1,0 +1,19 @@
+{
+  "name": "3d-clock-website",
+  "version": "1.0.0",
+  "description": "A beautiful 3D animated clock website built with Vue.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.3.4",
+    "three": "^0.157.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.4.0",
+    "vite": "^4.4.9"
+  }
+} 
